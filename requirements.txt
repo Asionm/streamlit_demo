@@ -1,0 +1,9 @@
+PIL
+torchvision
+torch
+time
+streamlit as st
+opencv-python
+tempfile
+numpy
+shutil
