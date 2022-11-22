@@ -1,7 +1,6 @@
 Pillow
 torchvision
 torch
-time
 streamlit
 opencv-python
 tempfile
