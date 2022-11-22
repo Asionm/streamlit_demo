@@ -2,7 +2,7 @@ PIL
 torchvision
 torch
 time
-streamlit as st
+streamlit
 opencv-python
 tempfile
 numpy
