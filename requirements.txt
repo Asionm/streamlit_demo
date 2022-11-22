@@ -3,6 +3,4 @@ torchvision
 torch
 streamlit
 opencv-python
-tempfile
 numpy
-shutil
