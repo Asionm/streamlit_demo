@@ -239,7 +239,7 @@ app_mode = st.sidebar.selectbox("模式选择",
 if app_mode == "图像物体识别":
     pic_run()
 elif app_mode == "展示源代码":
-    st.code(get_code_text("video_deplot.py"))
+    st.code(get_code_text("yolo_deploy.py"))
 elif app_mode == "视频物体识别":
     video_run()
 elif app_mode == "算式识别":
